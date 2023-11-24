@@ -17,7 +17,7 @@ Welcome to our Hackathon-2022. Through this hackathon we are trying to select in
 * Classify the defect to flashes and cut marks - 20
   
 ### Good Image
-<img src=datset1/good.png width="20%" height="20%">
+<img src=dataset1/good.png width="20%" height="20%">
 
 ### Defective Images
 1. Flashes
@@ -30,9 +30,7 @@ Welcome to our Hackathon-2022. Through this hackathon we are trying to select in
 
 * Refer dataset 1 folder
 
-## Problem:2##
-
-In manufacturing companies the production lines are optimised for creating good samples while defective samples are very hard to generate and will happen only once in a while. To adress this issue we have to develop quality inspection system from golden samples. In this problem we have given a train dataset of a screw where good samples conists of 2 screws of different length and 4 nuts. Design a anomaly model which can detect both logical and structural changes in the data
+## Problem:2 In manufacturing companies the production lines are optimised for creating good samples while defective samples are very hard to generate and will happen only once in a while. To adress this issue we have to develop quality inspection system from golden samples. In this problem we have given a train dataset of a screw where good samples conists of 2 screws of different length and 4 nuts. Design a anomaly model which can detect both logical and structural changes in the data
 <img src=dataset2/good/000.png width="20%" height="20%"> <img src=defect3.png width="20%" height="20%">
 
 * Refer the datset2 folder 

@@ -35,8 +35,6 @@ Welcome to our Hackathon-2022. Through this hackathon we are trying to select in
 
 * Refer the datset2 folder 
 
-##Problem 3 :## 
-
-Kindly implement the paper "TIFS.2019.2926777" . 
+## Problem 3 Kindly implement the paper "TIFS.2019.2926777" 
 
 ## Email Your github repo to : hr@dhvaniai.com 
